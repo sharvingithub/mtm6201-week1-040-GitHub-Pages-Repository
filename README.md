@@ -1,1 +1,1 @@
-# mtm6201-week1-040-toy-Pages-Repository
+# mtm6201-week1-040-GitHub-Pages-Repository
